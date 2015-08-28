@@ -1,5 +1,16 @@
+<?php
+/**
+ * Simple Machines Forum (SMF)
+ *
+ * @package SMF
+ * @author Simple Machines
+ * @copyright 2011 Simple Machines
+ * @license http://www.simplemachines.org/about/smf/license.php BSD
+ * @create dhayzon 
+ * @version 2.0
+ */
 
-//colocar la funcion php antes de ?>
+//colocar la funcion php antes del cierre de php  
 function chat_win(){
 
 	global $scripturl, $memberContext,$txt, $settings,$context;
